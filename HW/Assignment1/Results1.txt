@@ -1,0 +1,5 @@
+Please input the filename: DataFile1.txt
+The average value of all numbers in the first column: 504397.3000
+The largest value of all numbers in the second column: 827469
+The total number of rows in the file is: 10
+The invalid numbers are: Program ended with exit code: 0
