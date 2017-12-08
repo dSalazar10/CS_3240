@@ -1,4 +1,4 @@
 # CS_3240
 Data Structures Course
 
-All programs from textbook, to be used as a reference.
+All data structures from my textbook, to be used as a reference.
