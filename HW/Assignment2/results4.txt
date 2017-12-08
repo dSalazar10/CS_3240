@@ -1,0 +1,7 @@
+Please input the filename: test4.txt
+ 2 5
+ 2 5
+ 4 5
+
+Process returned 0 (0x0)   execution time : 4.375 s
+Press any key to continue.

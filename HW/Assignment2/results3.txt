@@ -1,0 +1,5 @@
+Please input the filename: test3.txt
+ 12
+
+Process returned 255 (0xFF)   execution time : 13.355 s
+Press any key to continue.

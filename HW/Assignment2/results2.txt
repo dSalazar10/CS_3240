@@ -1,0 +1,6 @@
+Please input the filename: test2.txt
+ 18 8 3 9 67 39 37 77 39 7 68 89 64 60 71 56 79 16 86 27
+ 18 3 9 39 37 39 68 89 60 71 79 16 27
+
+Process returned 255 (0xFF)   execution time : 13.047 s
+Press any key to continue.
